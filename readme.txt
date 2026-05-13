@@ -1,0 +1,1 @@
+This code implements the core SPRL-HOA (PSC-SPRL and FFE-HOA) algorithm proposed in the paper. To demonstrate functionality, we run it on a sample set. 
